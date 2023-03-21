@@ -2,7 +2,6 @@
 - 🏫 Je suis étudiant à Nice en BUT Informatique en 2ème année
 - 👀 Je suis passionné d'informatique depuis tout petit et je me spécialise dans le développement Web depuis 3 ans
 - 🌱 Je suis en train d'apprendre Angular et React, de manière à pouvoir me démarquer auprès de mes futurs employeurs
-- 💞️ Je recherche un stage en développement Web pour la fin de ma 2ème année (de mi-avril à fin juin 2023)
 - 📫 Vous pouvez me contacter à l'adresse mail suivante  : contact@clement-lefevre.fr
 
 <!---
