@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Mes statistiques !](https://github-readme-stats.vercel.app/api?username=Firelods&theme=blue-green&show_icons=true&include_all_commits=true&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firelods&theme=blue-green&show_icons=true)
+<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firelods&theme=blue-green&show_icons=true)--->
